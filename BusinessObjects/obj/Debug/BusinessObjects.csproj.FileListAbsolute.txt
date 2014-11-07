@@ -1,0 +1,12 @@
+M:\MISC_FILES\Sales_and_Inventory_System\BusinessObjects\bin\Debug\BusinessObjects.dll
+M:\MISC_FILES\Sales_and_Inventory_System\BusinessObjects\bin\Debug\BusinessObjects.pdb
+M:\MISC_FILES\Sales_and_Inventory_System\BusinessObjects\obj\Debug\BusinessObjects.dll
+M:\MISC_FILES\Sales_and_Inventory_System\BusinessObjects\obj\Debug\BusinessObjects.pdb
+C:\Users\PAL\Desktop\Sales_and_Inventory_System\BusinessObjects\bin\Debug\BusinessObjects.dll
+C:\Users\PAL\Desktop\Sales_and_Inventory_System\BusinessObjects\bin\Debug\BusinessObjects.pdb
+C:\Users\PAL\Desktop\Sales_and_Inventory_System\BusinessObjects\obj\Debug\BusinessObjects.dll
+C:\Users\PAL\Desktop\Sales_and_Inventory_System\BusinessObjects\obj\Debug\BusinessObjects.pdb
+C:\Sales_and_Inventory_System\BusinessObjects\bin\Debug\BusinessObjects.dll
+C:\Sales_and_Inventory_System\BusinessObjects\bin\Debug\BusinessObjects.pdb
+C:\Sales_and_Inventory_System\BusinessObjects\obj\Debug\BusinessObjects.dll
+C:\Sales_and_Inventory_System\BusinessObjects\obj\Debug\BusinessObjects.pdb
